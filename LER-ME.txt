@@ -1,0 +1,11 @@
+MEDINFAR × SALESFORCE — AI & AGENTFORCE WORKSHOP
+
+1. Extraia todos os ficheiros deste ZIP para uma pasta.
+2. Abra medinfar-trailmap.html no Chrome, Edge ou Safari.
+
+A página inclui as imagens e as fontes; não precisa de instalação.
+Os links externos, incluindo a apresentação Google Slides, precisam de Internet
+e das permissões de acesso da conta de quem os abre.
+
+A navegação começa no passo 00. O progresso assinalado fica guardado
+apenas no browser de cada utilizador.
